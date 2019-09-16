@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.row {
+    display: inline-flex;
+    border: solid;
+    border-width: 0px;
+}
+
+.main-table {
+    display: block;
+}
+.ticblock {
+    padding: 5px;
+    border: solid;
+    border-width: 0.5px;
+    background: blue;
+    width: 10em;
+    height: 10em;
+}
+
+img {
+    max-height:100%;
+    max-width:100%
+}
