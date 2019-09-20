@@ -1,7 +1,11 @@
 {
   "name": "tic-tac-toe",
-  "version": "0.1.0",
+  "version": "1.0",
+  "description": "A simple implementation of Tic-Tac-Toe using React Hooks",
   "private": true,
+  "author": {"name": "Ricardo de Arruda",
+  "email": "settiricardo@gmail.com",
+  "url": "http://dearruda.me/"},
   "dependencies": {
     "@emotion/core": "^10.0.15",
     "react": "^16.8.6",

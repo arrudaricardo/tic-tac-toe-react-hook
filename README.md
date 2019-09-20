@@ -103,10 +103,10 @@ the sum gets 15, 3x5, we know that the O is the winner, and the same applying to
         }
     }, [table])
 ```
-The last argument *[table]* is the element that React is going to check and run the *useEffect*
+The last argument *[table]* is the component that React is going to check and run the *useEffect*
 for any update in *[table]* in this case.
 
-For the blocks we created a object call *TicBlock* that have an attribute *number*
+For the blocks we created a component call *TicBlock* that have an attribute *number*
 that will be unique, *last* that will receive the *last* and *setLast* Hooks and *table* that
 will receive the Hooks *table* and *setTable*.
 ```
