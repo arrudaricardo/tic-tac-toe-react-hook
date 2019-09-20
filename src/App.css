@@ -7,14 +7,14 @@
 }
 
 .row {
-    display: inline-flex;
+    display: flex;
     border: solid;
     border-width: 0px;
 }
 
 .main-table {
     margin: 1em;
-    display: block;
+    display: inline-block;
 }
 
 .ticblock {
